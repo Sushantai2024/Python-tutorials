@@ -1,0 +1,7 @@
+file oerations 
+open 
+write
+close 
+with 
+seek 
+tell 
